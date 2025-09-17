@@ -1,6 +1,6 @@
 # 🎨 Generative AI Platform: Multi-Model Image Synthesis
 
-**[🚀 View the Live Demo on Hugging Face Spaces]([https://huggingface.co/spaces/bennyx06/gan-image-generator])** 
+**[🚀 View the Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/bennyx06/gan-image-generator)** 
 ## 📖 Project Overview
 
 This project is a complete, end-to-end web application that allows users to generate synthetic images using two distinct Generative Adversarial Networks (GANs). It demonstrates the full lifecycle of a machine learning project, from training and implementation to building an interactive frontend and deploying it as a public-facing tool.
